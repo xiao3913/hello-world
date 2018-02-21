@@ -1,0 +1,4 @@
+string stop_id
+string arrival_time
+string departure_time
+GpsCoordinat position

@@ -1,0 +1,4 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+Route1,KH,128_0,Shuttlebus,1,01,128
+Route1,KH,130_0,Shuttlebus,1,11,130
+Route1,KH,130_1,Shuttlebus,1,12,130

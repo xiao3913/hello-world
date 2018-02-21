@@ -1,0 +1,21 @@
+{
+    "sentTime" : 1519041931134, 
+    "vehicleUpdates" : [{ 
+            "gtfsSelector" : {
+                "feedId" : "SML", 
+                "tripId" : "1", 
+                "scheduledStart" : "2018-02-20T16:13:24.000Z"
+            },
+            "sensory" : {
+                "latitude" : 59.34811989999999,
+               "longitude" : 18.0417305,
+                "time" : 1519041931095,
+                "altitude" : null,
+                "heading" : null,
+                "accuracy" : 863,
+                "altitudeAccuracy" : null,
+                "speed" : null
+            }
+        }
+    ]
+}
